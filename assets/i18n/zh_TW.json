@@ -1,0 +1,19 @@
+{
+    "menu": {
+        "cat1": "依組識列表",
+        "cat2": "依法規列表",
+        "cat3": "大法官解釋",
+        "cat4": "司法判例",
+        "list1": "{cat} 清單",
+        "setting": "設定",
+        "about": "關於"
+    },
+    "setting": {
+        "title": "設定",
+        "theme": "配色",
+        "language": "語系"
+    },
+    "about": {
+        "title": "關於"
+    }
+}
